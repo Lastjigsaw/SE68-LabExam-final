@@ -13,7 +13,6 @@ func Product struct {
 	Price 	float64 `json:"price"`
 	Stock 	int			`json:"stokc"`
 	Description		string `json:"description"`
-
 }
 
 
